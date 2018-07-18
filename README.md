@@ -13,3 +13,8 @@ Dataset used is from Scikit Learn Library -> **Breast Cancer Dataset**
 Feature Normalisation is applied on data
 It Gets 98% right answer on Test Set.
 
+## SVM from scratch
+Code implements SVM with stochastic gradient descent with Multiple features.
+Dataset used is like an example.
+Main Model returns Modified weights
+Inspired from Siraj Raval's Video.
