@@ -18,3 +18,10 @@ Code implements SVM with stochastic gradient descent with Multiple features.
 Dataset used is like an example.
 Main Model returns Modified weights
 Inspired from Siraj Raval's Video.
+
+## Simple Neural Net with 2 layers from scratch.
+Implemented Simple Neural Net with 2 layers by just using Numpy.
+
+## Simple NN on MNIST dataset
+Implemented Simple NN on MNIST dataset using tensorflow.
+MNIST dataset is taken from Kaggle Competition.
